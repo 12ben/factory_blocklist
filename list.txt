@@ -1,2 +1,2 @@
-||xunlei.com
-||sandai.net
+*.xunlei.com
+*.sandai.net
